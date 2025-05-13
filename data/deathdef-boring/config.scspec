@@ -1,0 +1,9 @@
+{
+    ignore_vanishing: bool
+        = false
+        # spawn items that should have vanished.
+
+    initial_item_age: short
+        = 0s
+        # initial item age of spawned death items.
+}
