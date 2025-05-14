@@ -1,7 +1,7 @@
 #> deathdef-boring : deathdef <&> death
 #--------------------
-# -> items[]: itemSlot
-# -> vanishing_items[]: itemSlot
+# -> items[]: containedItem
+# -> vanishing_items[]: containedItem
 # -> xp: int
 #--------------------
 # .
