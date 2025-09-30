@@ -1,4 +1,4 @@
-#> deathdef-boring:_/sc/uninstall
+#> boringdeath:_/sc/uninstall
 #--------------------
 # UNINSTALL
 #--------------------

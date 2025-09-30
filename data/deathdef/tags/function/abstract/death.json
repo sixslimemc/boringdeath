@@ -1,5 +1,5 @@
 {
     "values": [
-        "deathdef-boring:_/abstract/deathdef/death/main"
+        "boringdeath:_/abstract/deathdef/death/main"
     ]
 }

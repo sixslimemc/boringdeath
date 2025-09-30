@@ -1,9 +1,9 @@
-#> deathdef-boring:_/sc/manifest
+#> boringdeath:_/sc/manifest
 #--------------------
 # MANIFEST
 #--------------------
 
-data modify storage slimecore:in manifest.pack set value "deathdef-boring"
+data modify storage slimecore:in manifest.pack set value "boringdeath"
 data modify storage slimecore:in manifest.version set value {major:1, minor:0, patch:0}
 data modify storage slimecore:in manifest.display.name set value "Boring and Lazy DeathDef Implementation"
 data modify storage slimecore:in manifest.display.summary set value "TODO"
